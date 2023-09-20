@@ -19,8 +19,8 @@ pip install chromadb
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/yourrepositoryname.git
-cd yourrepositoryname
+git clone https://github.com/christianjensen2903/fin1_db.git
+cd fin_db
 ```
 
 *Replace `yourusername` and `yourrepositoryname` with your actual GitHub username and the repository's name.*
