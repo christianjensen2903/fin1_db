@@ -30,7 +30,7 @@ cd yourrepositoryname
 Run the script using the following command:
 
 ```bash
-python search_tool.py "search_string" --n_results=number_of_results
+python search.py "search_string" --n_results=number_of_results
 ```
 
 - **search_string**: The string or phrase you want to search for in the exam database.
@@ -39,7 +39,7 @@ python search_tool.py "search_string" --n_results=number_of_results
 ### Example:
 
 ```bash
-python search_tool.py "capital structure" --n_results=3
+python search.py "Vis at modellen er komplet og arbitragefri" --n_results=3
 ```
 
 This will search for the term "capital structure" and display the top 3 relevant exam questions.
